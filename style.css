@@ -3,7 +3,7 @@
     --card-bg: #1E1E1E;
     --text-primary: #FFFFFF;
     --text-secondary: #B3B3B3;
-    --accent-color: #0070f3; /* Azul técnico */
+    --accent-color: #B3B3B3; /* Azul técnico */
 }
 
 body {
@@ -122,4 +122,5 @@ footer {
 @media (max-width: 600px) {
     h1 { font-size: 2rem; }
     .profile-img { width: 120px; height: 120px; }
+
 }

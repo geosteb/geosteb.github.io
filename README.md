@@ -6,7 +6,7 @@ This is the source code for my personal portfolio and project hub, hosted at [ge
 A minimalist, high-performance portal designed to showcase my work across engineering, music production, and software automation.
 
 ### 🛠️ Built With
-* **HTML5 / CSS3:** Custom-built layout with a focus on typography and clean UI.
+* **HTML5 / CSS3:** Custom-built layout with a focus on typography and clean UI. With AI-Assisted Development.
 * **Responsive Design:** Optimized for all devices.
 * **GitHub Pages:** Automated deployment pipeline.
 
